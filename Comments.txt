@@ -1,0 +1,3 @@
+
+{"rate":2,"comment":"کلکه"}
+{"rate":5,"comment":"yuiyiuyi"}
