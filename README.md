@@ -1,2 +1,2 @@
-# Foodipe-Drfood-API
-Server side PHP application for Foodipe and Dr.food
+# FoodipeServer
+Server application stack of Foodipe
